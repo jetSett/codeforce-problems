@@ -1,0 +1,1 @@
+g++ -std=c++14 -Wall $1 -o out
